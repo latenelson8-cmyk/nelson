@@ -1,0 +1,6 @@
+{
+  "name": "Arbitre-late",
+  "description": "Une application d'aide à la décision intelligente qui analyse vos situations sous forme de pour/contre, de tableaux comparatifs ou d'analyses SWOT grâce à l'IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
